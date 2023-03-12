@@ -12,7 +12,7 @@
 
 <p>add text.</p>
 
-<p>edit master after branch</p>
+<p>edit master</p>
 
 </body>
 </html>
