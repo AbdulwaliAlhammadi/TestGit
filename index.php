@@ -12,7 +12,7 @@
 
 <p>add
 
-<p>edit master</p>
+<p>edit</p>
 
 </body>
 </html>
